@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anita-B/Nodejs-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anita-B/Nodejs-MySQL/issues"
+  },
+  "homepage": "https://github.com/Anita-B/Nodejs-MySQL#readme",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "easy-table": "^1.1.0",
+    "inquirer": "^3.2.2",
+    "mysql": "^2.14.1"
+  }
+}
